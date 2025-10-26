@@ -28,7 +28,7 @@ All files live in this folder. Load them with `numpy.load` unless stated otherwi
 | File | Type | Purpose |
 | --- | --- | --- |
 | `distance_matrix.npy` | NumPy array (N x N) | Symmetric matrix of door-to-door flight distances between waypoints computed inside the polygon. Use this as the cost matrix in your optimizer. |
-| `predecessors.npy` | NumPy array (N x N) | For each pair of nodes `(i, j)`, stores the predecessor index on the shortest path from `i` to `j`. Use `scipy.sparse.csgraph.dijkstra` conventions to expand indirect legs back into actual waypoint sequences. |
+| `predecessors.npy` | NumPy array (N x N) | For each pair of nodes `(i, j)`, the predecessor index on the shortest path from `i` to `j`. Use `scipy.sparse.csgraph.dijkstra` conventions to expand indirect legs back into actual waypoint sequences. |
 | `points_lat_long.npy` | NumPy array (N x 2) | Geographic coordinates (longitude, latitude) for every waypoint index. Index into this after planning to obtain real-world coordinates. |
 | `asset_indexes.npy` | NumPy array | Subset of waypoint indices corresponding to electrical assets (i.e. poles), formatted as a slice: `[first index, last index]`. |
 | `photo_indexes.npy` | NumPy array | Subset of waypoint indices for the 4 photo points around each asset, formatted as a slice: `[first index, last index]`.  |
@@ -53,7 +53,7 @@ This is a scaffold—not a prescription. Feel free to diverge.
    - Convert the abstract tour into detailed waypoint sequences using `predecessors.npy` and the Dijkstra predecessor conventions. This ensures your missions respect the flight polygon boundaries.
 
 4. **Respect battery limits**
-   - Split the route into missions that each start/end at the depot (which is **index 0**, as is typical in routing problems) and stay under a maximum allowed distance. The explicit distance constraint for optimal battery usage is **37,725 feet**. You can design your own heuristics: multi-vehicle VRP formulations, greedy partitioning, or clustering first.
+   - Split the route into missions that each start/end at the depot (which is **index 0**, as is typical in routing problems) and stay under a maximum allowed distance. The explicit distance constraint for optimal battery usage is **37,725 feet**. You can design your own heuristics: multi-vehicle VRP formulations, greedy partitioning, or clustering first. 
 
 5. **Convert to coordinates**
    - Translate waypoint indices to longitude/latitude via `points_lat_long.npy` to generate deliverables (maps, CSVs, GeoJSON, etc.).

@@ -32,7 +32,7 @@ photo_indexes = np.load('photo_indexes.npy')
 points_lat_long = np.load('points_lat_long.npy')
 predecessors = np.load('predecessors.npy')
 waypoint_indexes = np.load('waypoint_indexes.npy')
-max_distance_per_trip = 37725
+max_distance_per_trip = 11498.58
 
 print(f"distance_matrix: {distance_matrix.shape}")
 print(f"asset_indexes: {asset_indexes}")
