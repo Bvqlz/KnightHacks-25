@@ -1,0 +1,4386 @@
+{
+  "type": "electrical_assets",
+  "count": 730,
+  "points": [
+    {
+      "asset_index": 3544,
+      "longitude": -80.13958521,
+      "latitude": 26.78446643,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3545,
+      "longitude": -80.13971023,
+      "latitude": 26.783871160000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3546,
+      "longitude": -80.13941156,
+      "latitude": 26.78504331,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3547,
+      "longitude": -80.1392424,
+      "latitude": 26.78560575,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3548,
+      "longitude": -80.13976484,
+      "latitude": 26.78270784,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3549,
+      "longitude": -80.13978012,
+      "latitude": 26.782108090000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3550,
+      "longitude": -80.13974869,
+      "latitude": 26.783240060000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3551,
+      "longitude": -80.13983067,
+      "latitude": 26.78025308,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3552,
+      "longitude": -80.13982308,
+      "latitude": 26.780953739999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3553,
+      "longitude": -80.13979875,
+      "latitude": 26.781528090000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3554,
+      "longitude": -80.13986459,
+      "latitude": 26.778946810000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3555,
+      "longitude": -80.13984682,
+      "latitude": 26.779590270000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3556,
+      "longitude": -80.13902998,
+      "latitude": 26.786174560000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3557,
+      "longitude": -80.13735009,
+      "latitude": 26.800224689999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3558,
+      "longitude": -80.13777133,
+      "latitude": 26.80050886,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3559,
+      "longitude": -80.13676447,
+      "latitude": 26.79982988,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3560,
+      "longitude": -80.13839556,
+      "latitude": 26.800922629999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3561,
+      "longitude": -80.13901768,
+      "latitude": 26.80134051,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3562,
+      "longitude": -80.13965017,
+      "latitude": 26.801760100000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3563,
+      "longitude": -80.13795367,
+      "latitude": 26.798022140000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3564,
+      "longitude": -80.13782045,
+      "latitude": 26.79842276,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3565,
+      "longitude": -80.13802532,
+      "latitude": 26.79781277,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3566,
+      "longitude": -80.13742424,
+      "latitude": 26.79959694,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3567,
+      "longitude": -80.13716139,
+      "latitude": 26.80024231,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3568,
+      "longitude": -80.13654345,
+      "latitude": 26.799687439999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3569,
+      "longitude": -80.13446115,
+      "latitude": 26.798299420000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3570,
+      "longitude": -80.13488014,
+      "latitude": 26.798575060000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3571,
+      "longitude": -80.1340489,
+      "latitude": 26.798020910000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3572,
+      "longitude": -80.13528958,
+      "latitude": 26.798851140000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3573,
+      "longitude": -80.13343226,
+      "latitude": 26.79760617,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3574,
+      "longitude": -80.13250142,
+      "latitude": 26.79698498,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3575,
+      "longitude": -80.13887935,
+      "latitude": 26.786595359999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3576,
+      "longitude": -80.13855991,
+      "latitude": 26.788036629999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3577,
+      "longitude": -80.13858978,
+      "latitude": 26.788366090000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3578,
+      "longitude": -80.13816333,
+      "latitude": 26.797203749999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3579,
+      "longitude": -80.13297336,
+      "latitude": 26.797300940000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3580,
+      "longitude": -80.13281265,
+      "latitude": 26.79719449,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3581,
+      "longitude": -80.13591161,
+      "latitude": 26.799269429999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3582,
+      "longitude": -80.14025689,
+      "latitude": 26.802167239999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3583,
+      "longitude": -80.13761859,
+      "latitude": 26.799031140000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3584,
+      "longitude": -80.13829624,
+      "latitude": 26.79561864,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3585,
+      "longitude": -80.13853749,
+      "latitude": 26.789534960000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3586,
+      "longitude": -80.13856005,
+      "latitude": 26.788852499999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3587,
+      "longitude": -80.13860039,
+      "latitude": 26.788179659999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3588,
+      "longitude": -80.13865025,
+      "latitude": 26.787400949999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3589,
+      "longitude": -80.13727522000002,
+      "latitude": 26.8000677,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3590,
+      "longitude": -80.14210268,
+      "latitude": 26.803410089999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3591,
+      "longitude": -80.14148882,
+      "latitude": 26.80300829,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3592,
+      "longitude": -80.14084847000001,
+      "latitude": 26.802567209999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3593,
+      "longitude": -80.11639471,
+      "latitude": 26.767032679999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3594,
+      "longitude": -80.11641303,
+      "latitude": 26.76667784,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3595,
+      "longitude": -80.11637512000001,
+      "latitude": 26.76738924,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3596,
+      "longitude": -80.1163699,
+      "latitude": 26.768146940000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3597,
+      "longitude": -80.11634923,
+      "latitude": 26.76867751,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3598,
+      "longitude": -80.1163881,
+      "latitude": 26.76774932,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3599,
+      "longitude": -80.11614333,
+      "latitude": 26.766820530000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3600,
+      "longitude": -80.11619463,
+      "latitude": 26.765462710000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3601,
+      "longitude": -80.11608999,
+      "latitude": 26.76811553,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3602,
+      "longitude": -80.11616811,
+      "latitude": 26.766157979999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3603,
+      "longitude": -80.11606792,
+      "latitude": 26.76873686,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3604,
+      "longitude": -80.1160415,
+      "latitude": 26.76935959,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3605,
+      "longitude": -80.11643565,
+      "latitude": 26.76521949,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3606,
+      "longitude": -80.11648125,
+      "latitude": 26.76406749,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3607,
+      "longitude": -80.11646799,
+      "latitude": 26.7646313,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3608,
+      "longitude": -80.11648689,
+      "latitude": 26.763953160000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3609,
+      "longitude": -80.11644268,
+      "latitude": 26.765106979999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3610,
+      "longitude": -80.11476782,
+      "latitude": 26.76540082,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3611,
+      "longitude": -80.11542033000002,
+      "latitude": 26.765426700000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3612,
+      "longitude": -80.11314591,
+      "latitude": 26.765337560000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3613,
+      "longitude": -80.11406369,
+      "latitude": 26.765376380000006,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3614,
+      "longitude": -80.11673856,
+      "latitude": 26.761402110000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3615,
+      "longitude": -80.11662546000001,
+      "latitude": 26.762464799999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3616,
+      "longitude": -80.11660498,
+      "latitude": 26.762669099999993,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3617,
+      "longitude": -80.11655124,
+      "latitude": 26.763182789999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3618,
+      "longitude": -80.11649352,
+      "latitude": 26.76386145,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3619,
+      "longitude": -80.11653383000001,
+      "latitude": 26.763425019999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3620,
+      "longitude": -80.12462023,
+      "latitude": 26.76044884,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3621,
+      "longitude": -80.12519279,
+      "latitude": 26.76046335,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3622,
+      "longitude": -80.12472883,
+      "latitude": 26.760451079999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3623,
+      "longitude": -80.12461227,
+      "latitude": 26.76072222,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3624,
+      "longitude": -80.12278838,
+      "latitude": 26.75993387,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3625,
+      "longitude": -80.12233733,
+      "latitude": 26.75991862,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3626,
+      "longitude": -80.12188325,
+      "latitude": 26.759904100000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3627,
+      "longitude": -80.12143074,
+      "latitude": 26.759892610000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3628,
+      "longitude": -80.1209774,
+      "latitude": 26.759877800000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3629,
+      "longitude": -80.12054486,
+      "latitude": 26.759867240000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3630,
+      "longitude": -80.11968065,
+      "latitude": 26.75983948,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3631,
+      "longitude": -80.11894138,
+      "latitude": 26.75979319,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3632,
+      "longitude": -80.11852483,
+      "latitude": 26.75978713,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3633,
+      "longitude": -80.11776546,
+      "latitude": 26.759802369999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3634,
+      "longitude": -80.11743154,
+      "latitude": 26.75983888,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3635,
+      "longitude": -80.11706817,
+      "latitude": 26.759864399999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3636,
+      "longitude": -80.11649247,
+      "latitude": 26.759904990000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3637,
+      "longitude": -80.11698302,
+      "latitude": 26.759373050000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3638,
+      "longitude": -80.11682881000002,
+      "latitude": 26.760529580000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3639,
+      "longitude": -80.1168118,
+      "latitude": 26.76070895,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3640,
+      "longitude": -80.11676748,
+      "latitude": 26.761120020000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3641,
+      "longitude": -80.11599899,
+      "latitude": 26.75988329,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3642,
+      "longitude": -80.1156555,
+      "latitude": 26.759869609999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3643,
+      "longitude": -80.11472883,
+      "latitude": 26.75983252,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3644,
+      "longitude": -80.11611554,
+      "latitude": 26.76746757,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3645,
+      "longitude": -80.11915587,
+      "latitude": 26.784868050000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3646,
+      "longitude": -80.11898382,
+      "latitude": 26.78429529,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3647,
+      "longitude": -80.11923597,
+      "latitude": 26.785467949999994,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3648,
+      "longitude": -80.11890932,
+      "latitude": 26.78441373,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3649,
+      "longitude": -80.11865783,
+      "latitude": 26.784727209999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3650,
+      "longitude": -80.11840410000002,
+      "latitude": 26.78503786,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3651,
+      "longitude": -80.11815864,
+      "latitude": 26.7853329,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3652,
+      "longitude": -80.11531641,
+      "latitude": 26.786856900000007,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3653,
+      "longitude": -80.11533095,
+      "latitude": 26.786499609999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3654,
+      "longitude": -80.11805729,
+      "latitude": 26.782995170000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3655,
+      "longitude": -80.11754363,
+      "latitude": 26.782514800000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3656,
+      "longitude": -80.11879189,
+      "latitude": 26.783915330000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3657,
+      "longitude": -80.11705068,
+      "latitude": 26.782064820000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3658,
+      "longitude": -80.115467,
+      "latitude": 26.78288519,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3659,
+      "longitude": -80.11552586,
+      "latitude": 26.78147184,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3660,
+      "longitude": -80.11549777,
+      "latitude": 26.78217977,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3661,
+      "longitude": -80.11544329,
+      "latitude": 26.78346661000001,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3662,
+      "longitude": -80.11657508,
+      "latitude": 26.78158648,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3663,
+      "longitude": -80.11557876,
+      "latitude": 26.78014889,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3664,
+      "longitude": -80.11564595,
+      "latitude": 26.77872252,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3665,
+      "longitude": -80.11554806,
+      "latitude": 26.78080518,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3666,
+      "longitude": -80.11601423,
+      "latitude": 26.78077241,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3667,
+      "longitude": -80.11609348,
+      "latitude": 26.780910670000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3668,
+      "longitude": -80.11617003,
+      "latitude": 26.781040689999994,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3669,
+      "longitude": -80.1134782,
+      "latitude": 26.78198962,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3670,
+      "longitude": -80.11319215,
+      "latitude": 26.78198605,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3671,
+      "longitude": -80.11669578,
+      "latitude": 26.778200989999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3672,
+      "longitude": -80.11637236,
+      "latitude": 26.778189319999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3673,
+      "longitude": -80.11598608,
+      "latitude": 26.77787934,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3674,
+      "longitude": -80.11599719,
+      "latitude": 26.777529390000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3675,
+      "longitude": -80.11570164,
+      "latitude": 26.7773441,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3676,
+      "longitude": -80.11567779,
+      "latitude": 26.778013950000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3677,
+      "longitude": -80.11512617,
+      "latitude": 26.77813485,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3678,
+      "longitude": -80.11491516000001,
+      "latitude": 26.77813031,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3679,
+      "longitude": -80.11471575,
+      "latitude": 26.778133840000006,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3680,
+      "longitude": -80.11423011,
+      "latitude": 26.778113640000008,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3681,
+      "longitude": -80.11382804,
+      "latitude": 26.778103439999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3682,
+      "longitude": -80.11593337,
+      "latitude": 26.7792943,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3683,
+      "longitude": -80.11346178,
+      "latitude": 26.778089349999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3684,
+      "longitude": -80.1131291,
+      "latitude": 26.778070040000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3685,
+      "longitude": -80.11607113,
+      "latitude": 26.7754146,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3686,
+      "longitude": -80.11609375,
+      "latitude": 26.7749881,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3687,
+      "longitude": -80.11605062,
+      "latitude": 26.77587233,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3688,
+      "longitude": -80.11603291,
+      "latitude": 26.77632167,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3689,
+      "longitude": -80.11576113,
+      "latitude": 26.77606259,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3690,
+      "longitude": -80.11581932,
+      "latitude": 26.77458613,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3691,
+      "longitude": -80.11573154,
+      "latitude": 26.776702809999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3692,
+      "longitude": -80.11601798,
+      "latitude": 26.776809540000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3693,
+      "longitude": -80.11601018,
+      "latitude": 26.777167550000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3694,
+      "longitude": -80.11616736,
+      "latitude": 26.77323468,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3695,
+      "longitude": -80.11620293,
+      "latitude": 26.772527130000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3696,
+      "longitude": -80.1161524,
+      "latitude": 26.77358049,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3697,
+      "longitude": -80.1158729,
+      "latitude": 26.77337779,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3698,
+      "longitude": -80.11593972,
+      "latitude": 26.77198305,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3699,
+      "longitude": -80.11590664,
+      "latitude": 26.772681429999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3700,
+      "longitude": -80.11584449,
+      "latitude": 26.7739873,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3701,
+      "longitude": -80.11613375,
+      "latitude": 26.77402946,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3702,
+      "longitude": -80.11611577,
+      "latitude": 26.774501229999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3703,
+      "longitude": -80.11578775,
+      "latitude": 26.775324609999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3704,
+      "longitude": -80.11624167,
+      "latitude": 26.7714691,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3705,
+      "longitude": -80.11625517,
+      "latitude": 26.77108763,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3706,
+      "longitude": -80.11622852,
+      "latitude": 26.77182707,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3707,
+      "longitude": -80.11621582,
+      "latitude": 26.7721562,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3708,
+      "longitude": -80.11596898,
+      "latitude": 26.77136374999999,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3709,
+      "longitude": -80.11599286,
+      "latitude": 26.770747489999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3710,
+      "longitude": -80.11632419,
+      "latitude": 26.76930395,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3711,
+      "longitude": -80.11630339,
+      "latitude": 26.76987862,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3712,
+      "longitude": -80.11628208,
+      "latitude": 26.770402509999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3713,
+      "longitude": -80.11626673,
+      "latitude": 26.770781510000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3714,
+      "longitude": -80.11601501,
+      "latitude": 26.770055620000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3715,
+      "longitude": -80.11561247,
+      "latitude": 26.77943911,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3716,
+      "longitude": -80.11536961,
+      "latitude": 26.7855415,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3717,
+      "longitude": -80.11535032,
+      "latitude": 26.78606751,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3718,
+      "longitude": -80.11850245,
+      "latitude": 26.78348859,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3719,
+      "longitude": -80.11615283,
+      "latitude": 26.780285830000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3720,
+      "longitude": -80.11921819,
+      "latitude": 26.786004230000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3721,
+      "longitude": -80.11779941,
+      "latitude": 26.785747920000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3722,
+      "longitude": -80.11566811,
+      "latitude": 26.77968062,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3723,
+      "longitude": -80.11596432,
+      "latitude": 26.779653480000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3724,
+      "longitude": -80.11463465,
+      "latitude": 26.778128470000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3725,
+      "longitude": -80.11283127,
+      "latitude": 26.778063410000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3726,
+      "longitude": -80.11279586,
+      "latitude": 26.78024312999999,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3727,
+      "longitude": -80.11298297,
+      "latitude": 26.781979400000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3728,
+      "longitude": -80.1149407,
+      "latitude": 26.796352780000007,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3729,
+      "longitude": -80.11499145,
+      "latitude": 26.795048549999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3730,
+      "longitude": -80.11418869,
+      "latitude": 26.796418639999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3731,
+      "longitude": -80.1134188,
+      "latitude": 26.796400709999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3732,
+      "longitude": -80.11282528,
+      "latitude": 26.79638453,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3733,
+      "longitude": -80.11526584,
+      "latitude": 26.78801457,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3734,
+      "longitude": -80.11914633000002,
+      "latitude": 26.78729563,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3735,
+      "longitude": -80.11517029,
+      "latitude": 26.787364329999992,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3736,
+      "longitude": -80.11485259,
+      "latitude": 26.787356120000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3737,
+      "longitude": -80.11528736,
+      "latitude": 26.787536839999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3738,
+      "longitude": -80.11452805,
+      "latitude": 26.787347240000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3739,
+      "longitude": -80.11418161,
+      "latitude": 26.787339840000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3740,
+      "longitude": -80.11387019,
+      "latitude": 26.787332,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3741,
+      "longitude": -80.11350293,
+      "latitude": 26.787318519999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3742,
+      "longitude": -80.1132111,
+      "latitude": 26.787312560000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3743,
+      "longitude": -80.11740001,
+      "latitude": 26.786213800000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3744,
+      "longitude": -80.11504659,
+      "latitude": 26.78527716,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3745,
+      "longitude": -80.11536633,
+      "latitude": 26.78550065,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3746,
+      "longitude": -80.11918554,
+      "latitude": 26.786701390000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3747,
+      "longitude": -80.1154213,
+      "latitude": 26.784038670000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3748,
+      "longitude": -80.11529278,
+      "latitude": 26.787369300000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3749,
+      "longitude": -80.11291354,
+      "latitude": 26.787304809999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3750,
+      "longitude": -80.11501043,
+      "latitude": 26.79452039,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3751,
+      "longitude": -80.1149987,
+      "latitude": 26.79489888,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3752,
+      "longitude": -80.11498042,
+      "latitude": 26.7954151,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3753,
+      "longitude": -80.11496925,
+      "latitude": 26.795710029999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3754,
+      "longitude": -80.11495293,
+      "latitude": 26.796036730000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3755,
+      "longitude": -80.11499887,
+      "latitude": 26.79644039,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3756,
+      "longitude": -80.11493598,
+      "latitude": 26.796441630000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3757,
+      "longitude": -80.11485736,
+      "latitude": 26.796442190000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3758,
+      "longitude": -80.11493083,
+      "latitude": 26.796650309999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3759,
+      "longitude": -80.107831,
+      "latitude": 26.766341920000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3760,
+      "longitude": -80.10781256,
+      "latitude": 26.766740319999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3761,
+      "longitude": -80.10785189,
+      "latitude": 26.765936320000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3762,
+      "longitude": -80.10779056,
+      "latitude": 26.76722494,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3763,
+      "longitude": -80.10776981,
+      "latitude": 26.76771682,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3764,
+      "longitude": -80.10774747,
+      "latitude": 26.768206850000006,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3765,
+      "longitude": -80.09986813000002,
+      "latitude": 26.76654966,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3766,
+      "longitude": -80.09988053,
+      "latitude": 26.766216909999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3767,
+      "longitude": -80.09984706,
+      "latitude": 26.766992960000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3768,
+      "longitude": -80.09982376,
+      "latitude": 26.767460730000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3769,
+      "longitude": -80.09981565,
+      "latitude": 26.767668289999992,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3770,
+      "longitude": -80.09979489,
+      "latitude": 26.768065169999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3771,
+      "longitude": -80.09977877,
+      "latitude": 26.768407090000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3772,
+      "longitude": -80.09975632,
+      "latitude": 26.768813410000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3773,
+      "longitude": -80.11175314,
+      "latitude": 26.76527623,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3774,
+      "longitude": -80.11243802,
+      "latitude": 26.76530665,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3775,
+      "longitude": -80.11014751,
+      "latitude": 26.76521504,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3776,
+      "longitude": -80.11102625,
+      "latitude": 26.765249290000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3777,
+      "longitude": -80.10852807,
+      "latitude": 26.765156960000006,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3778,
+      "longitude": -80.10959183,
+      "latitude": 26.76519448,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3779,
+      "longitude": -80.10906244,
+      "latitude": 26.765175910000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3780,
+      "longitude": -80.10787775,
+      "latitude": 26.765389960000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3781,
+      "longitude": -80.10786854,
+      "latitude": 26.76555443,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3782,
+      "longitude": -80.10773539,
+      "latitude": 26.768540830000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3783,
+      "longitude": -80.10701911000001,
+      "latitude": 26.78417474999999,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3784,
+      "longitude": -80.10701275,
+      "latitude": 26.784704170000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3785,
+      "longitude": -80.11220792,
+      "latitude": 26.78339157,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3786,
+      "longitude": -80.11193682,
+      "latitude": 26.783204709999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3787,
+      "longitude": -80.11167269,
+      "latitude": 26.783025749999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3788,
+      "longitude": -80.11044813000001,
+      "latitude": 26.7822151,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3789,
+      "longitude": -80.11022873,
+      "latitude": 26.7820675,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3790,
+      "longitude": -80.10706011,
+      "latitude": 26.782732149999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3791,
+      "longitude": -80.10703498,
+      "latitude": 26.783782670000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3792,
+      "longitude": -80.11280805,
+      "latitude": 26.779916439999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3793,
+      "longitude": -80.11277128,
+      "latitude": 26.780609239999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3794,
+      "longitude": -80.11276078,
+      "latitude": 26.780902260000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3795,
+      "longitude": -80.11274621,
+      "latitude": 26.781178380000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3796,
+      "longitude": -80.11273736,
+      "latitude": 26.78146869,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3797,
+      "longitude": -80.11290457,
+      "latitude": 26.78197865,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3798,
+      "longitude": -80.11272205,
+      "latitude": 26.7823041,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3799,
+      "longitude": -80.1099856,
+      "latitude": 26.781904450000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3800,
+      "longitude": -80.10923426,
+      "latitude": 26.781398779999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3801,
+      "longitude": -80.10948268,
+      "latitude": 26.781564610000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3802,
+      "longitude": -80.10900262,
+      "latitude": 26.781241709999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3803,
+      "longitude": -80.10973077,
+      "latitude": 26.781733199999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3804,
+      "longitude": -80.10720696,
+      "latitude": 26.779189129999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3805,
+      "longitude": -80.10677626,
+      "latitude": 26.77976132,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3806,
+      "longitude": -80.1071633,
+      "latitude": 26.780156410000007,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3807,
+      "longitude": -80.10714941,
+      "latitude": 26.78045459,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3808,
+      "longitude": -80.10713841,
+      "latitude": 26.78074771,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3809,
+      "longitude": -80.10712847,
+      "latitude": 26.781020350000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3810,
+      "longitude": -80.10875059,
+      "latitude": 26.781070000000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3811,
+      "longitude": -80.10544004,
+      "latitude": 26.779871589999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3812,
+      "longitude": -80.10580459,
+      "latitude": 26.77967335,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3813,
+      "longitude": -80.10493909,
+      "latitude": 26.779853690000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3814,
+      "longitude": -80.10454744,
+      "latitude": 26.7798353,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3815,
+      "longitude": -80.10363557,
+      "latitude": 26.7798542,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3816,
+      "longitude": -80.10408952,
+      "latitude": 26.77982911,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3817,
+      "longitude": -80.10287292,
+      "latitude": 26.77987629,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3818,
+      "longitude": -80.10235971,
+      "latitude": 26.77986204,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3819,
+      "longitude": -80.11225554,
+      "latitude": 26.778047530000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3820,
+      "longitude": -80.11284853,
+      "latitude": 26.778279419999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3821,
+      "longitude": -80.11285186,
+      "latitude": 26.77847941,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3822,
+      "longitude": -80.11284007,
+      "latitude": 26.778928429999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3823,
+      "longitude": -80.11173438,
+      "latitude": 26.778030130000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3824,
+      "longitude": -80.11282893,
+      "latitude": 26.779256850000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3825,
+      "longitude": -80.11088299,
+      "latitude": 26.778000989999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3826,
+      "longitude": -80.10929536,
+      "latitude": 26.777954349999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3827,
+      "longitude": -80.10830767,
+      "latitude": 26.77792962,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3828,
+      "longitude": -80.10776037,
+      "latitude": 26.777921940000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3829,
+      "longitude": -80.10730684,
+      "latitude": 26.77792624,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3830,
+      "longitude": -80.10727384,
+      "latitude": 26.778291419999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3831,
+      "longitude": -80.10722829,
+      "latitude": 26.77886231,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3832,
+      "longitude": -80.10654192,
+      "latitude": 26.77961024,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3833,
+      "longitude": -80.1062931,
+      "latitude": 26.779439829999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3834,
+      "longitude": -80.10456108,
+      "latitude": 26.778274569999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3835,
+      "longitude": -80.10489703,
+      "latitude": 26.77849999,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3836,
+      "longitude": -80.1055481,
+      "latitude": 26.778937009999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3837,
+      "longitude": -80.10169308,
+      "latitude": 26.77983793,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3838,
+      "longitude": -80.10123924000001,
+      "latitude": 26.77983389,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3839,
+      "longitude": -80.10744939,
+      "latitude": 26.774891580000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3840,
+      "longitude": -80.10263091,
+      "latitude": 26.77698594,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3841,
+      "longitude": -80.10296639,
+      "latitude": 26.777223400000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3842,
+      "longitude": -80.10229675,
+      "latitude": 26.776766310000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3843,
+      "longitude": -80.10198054,
+      "latitude": 26.776553270000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3844,
+      "longitude": -80.10178393,
+      "latitude": 26.77641845000001,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3845,
+      "longitude": -80.10156668,
+      "latitude": 26.7762731,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3846,
+      "longitude": -80.10134003,
+      "latitude": 26.77611993,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3847,
+      "longitude": -80.10071508,
+      "latitude": 26.77569969,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3848,
+      "longitude": -80.1010569,
+      "latitude": 26.77592949,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3849,
+      "longitude": -80.1003804,
+      "latitude": 26.77547994,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3850,
+      "longitude": -80.10006125,
+      "latitude": 26.775273040000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3851,
+      "longitude": -80.10746189,
+      "latitude": 26.774561919999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3852,
+      "longitude": -80.10629337,
+      "latitude": 26.773729140000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3853,
+      "longitude": -80.0979498,
+      "latitude": 26.773870609999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3854,
+      "longitude": -80.09764371,
+      "latitude": 26.77365436,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3855,
+      "longitude": -80.09817174,
+      "latitude": 26.77401903,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3856,
+      "longitude": -80.10748368000002,
+      "latitude": 26.772724700000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3857,
+      "longitude": -80.10733012,
+      "latitude": 26.772651980000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3858,
+      "longitude": -80.10680363,
+      "latitude": 26.772631119999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3859,
+      "longitude": -80.10634132,
+      "latitude": 26.772605330000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3860,
+      "longitude": -80.10600723,
+      "latitude": 26.772592139999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3861,
+      "longitude": -80.10548467,
+      "latitude": 26.77257834,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3862,
+      "longitude": -80.10506785,
+      "latitude": 26.77256612,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3863,
+      "longitude": -80.10343954,
+      "latitude": 26.77251529,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3864,
+      "longitude": -80.10310839,
+      "latitude": 26.77250414,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3865,
+      "longitude": -80.10281408,
+      "latitude": 26.77249418,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3866,
+      "longitude": -80.10242729,
+      "latitude": 26.772477630000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3867,
+      "longitude": -80.10239566,
+      "latitude": 26.77315882,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3868,
+      "longitude": -80.10211298,
+      "latitude": 26.772468440000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3869,
+      "longitude": -80.09962417,
+      "latitude": 26.77110128,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3870,
+      "longitude": -80.09964077,
+      "latitude": 26.770765610000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3871,
+      "longitude": -80.09955653,
+      "latitude": 26.772648340000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3872,
+      "longitude": -80.10771918000002,
+      "latitude": 26.768852579999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3873,
+      "longitude": -80.10766492000002,
+      "latitude": 26.770172449999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3874,
+      "longitude": -80.10581263,
+      "latitude": 26.770620529999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3875,
+      "longitude": -80.10550157,
+      "latitude": 26.770608689999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3876,
+      "longitude": -80.10491533,
+      "latitude": 26.770590379999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3877,
+      "longitude": -80.10466373,
+      "latitude": 26.770584410000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3878,
+      "longitude": -80.10438675,
+      "latitude": 26.77057415,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3879,
+      "longitude": -80.10389719,
+      "latitude": 26.770557679999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3880,
+      "longitude": -80.10361188,
+      "latitude": 26.77054619,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3881,
+      "longitude": -80.10274753,
+      "latitude": 26.769491699999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3882,
+      "longitude": -80.10332599,
+      "latitude": 26.77054096,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3883,
+      "longitude": -80.10282427,
+      "latitude": 26.770520090000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3884,
+      "longitude": -80.10249691,
+      "latitude": 26.770507450000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3885,
+      "longitude": -80.10209464,
+      "latitude": 26.7704919,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3886,
+      "longitude": -80.10173407,
+      "latitude": 26.77047611,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3887,
+      "longitude": -80.10137795,
+      "latitude": 26.77046559,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3888,
+      "longitude": -80.09974346,
+      "latitude": 26.769157640000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3889,
+      "longitude": -80.09967813,
+      "latitude": 26.770261410000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3890,
+      "longitude": -80.10065915,
+      "latitude": 26.77044232,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3891,
+      "longitude": -80.10034477,
+      "latitude": 26.770432530000008,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3892,
+      "longitude": -80.09994463,
+      "latitude": 26.77042064,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3893,
+      "longitude": -80.09973272000002,
+      "latitude": 26.76938068,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3894,
+      "longitude": -80.0997009,
+      "latitude": 26.769886600000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3895,
+      "longitude": -80.10074509,
+      "latitude": 26.769417089999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3896,
+      "longitude": -80.10176827,
+      "latitude": 26.769453140000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3897,
+      "longitude": -80.10367786,
+      "latitude": 26.76952404,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3898,
+      "longitude": -80.10375435,
+      "latitude": 26.769526949999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3899,
+      "longitude": -80.09966757000001,
+      "latitude": 26.770407050000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3900,
+      "longitude": -80.10108863,
+      "latitude": 26.770457429999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3901,
+      "longitude": -80.10411262,
+      "latitude": 26.7705649,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3902,
+      "longitude": -80.09960716,
+      "latitude": 26.771584049999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3903,
+      "longitude": -80.09959445000001,
+      "latitude": 26.771903620000007,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3904,
+      "longitude": -80.09957321,
+      "latitude": 26.772382279999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3905,
+      "longitude": -80.09976082000001,
+      "latitude": 26.772385430000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3906,
+      "longitude": -80.10048207,
+      "latitude": 26.77241463,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3907,
+      "longitude": -80.10098075,
+      "latitude": 26.772432730000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3908,
+      "longitude": -80.10150395,
+      "latitude": 26.772449589999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3909,
+      "longitude": -80.1017981,
+      "latitude": 26.77245668,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3910,
+      "longitude": -80.10401374,
+      "latitude": 26.772529859999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3911,
+      "longitude": -80.10441174,
+      "latitude": 26.77254491,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3912,
+      "longitude": -80.10460609,
+      "latitude": 26.77255023,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3913,
+      "longitude": -80.10696335,
+      "latitude": 26.772636970000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3914,
+      "longitude": -80.1024094,
+      "latitude": 26.773455829999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3915,
+      "longitude": -80.10240174,
+      "latitude": 26.77355456,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3916,
+      "longitude": -80.10635514,
+      "latitude": 26.772730049999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3917,
+      "longitude": -80.10632981,
+      "latitude": 26.773220120000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3918,
+      "longitude": -80.09953852,
+      "latitude": 26.77290959,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3919,
+      "longitude": -80.10770709,
+      "latitude": 26.76914272000001,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3920,
+      "longitude": -80.10767207,
+      "latitude": 26.76989959,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3921,
+      "longitude": -80.10769252,
+      "latitude": 26.76941873,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3922,
+      "longitude": -80.10765226,
+      "latitude": 26.770417920000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3923,
+      "longitude": -80.1076377,
+      "latitude": 26.770681570000008,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3924,
+      "longitude": -80.10762262,
+      "latitude": 26.77112049999999,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3925,
+      "longitude": -80.10760952,
+      "latitude": 26.77137543,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3926,
+      "longitude": -80.10760138,
+      "latitude": 26.77159515,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3927,
+      "longitude": -80.10757641,
+      "latitude": 26.77206479,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3928,
+      "longitude": -80.10756728,
+      "latitude": 26.77223467,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3929,
+      "longitude": -80.10755976,
+      "latitude": 26.7723739,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3930,
+      "longitude": -80.1075573,
+      "latitude": 26.772412240000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3931,
+      "longitude": -80.10754463,
+      "latitude": 26.772833260000006,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3932,
+      "longitude": -80.10752897,
+      "latitude": 26.773185569999992,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3933,
+      "longitude": -80.10750421,
+      "latitude": 26.77368867,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3934,
+      "longitude": -80.10749088,
+      "latitude": 26.773986360000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3935,
+      "longitude": -80.10747962,
+      "latitude": 26.77424525,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3936,
+      "longitude": -80.10743428,
+      "latitude": 26.77515358,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3937,
+      "longitude": -80.10742451,
+      "latitude": 26.775454800000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3938,
+      "longitude": -80.10740327,
+      "latitude": 26.775923700000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3939,
+      "longitude": -80.10738781,
+      "latitude": 26.77625416,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3940,
+      "longitude": -80.10737346,
+      "latitude": 26.776604270000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3941,
+      "longitude": -80.10735406,
+      "latitude": 26.777066389999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3942,
+      "longitude": -80.10733088,
+      "latitude": 26.777520280000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3943,
+      "longitude": -80.10788192,
+      "latitude": 26.7779396,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3944,
+      "longitude": -80.10877597,
+      "latitude": 26.77794213,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3945,
+      "longitude": -80.10973589,
+      "latitude": 26.77796457,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3946,
+      "longitude": -80.11009045,
+      "latitude": 26.777980849999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3947,
+      "longitude": -80.11001972,
+      "latitude": 26.778258530000006,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3948,
+      "longitude": -80.11133097,
+      "latitude": 26.778021790000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3949,
+      "longitude": -80.11190389,
+      "latitude": 26.77803793,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3950,
+      "longitude": -80.11261559,
+      "latitude": 26.778055929999994,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3951,
+      "longitude": -80.11284596,
+      "latitude": 26.778697829999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3952,
+      "longitude": -80.11282433,
+      "latitude": 26.77940679,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3953,
+      "longitude": -80.11281356,
+      "latitude": 26.77957264,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3954,
+      "longitude": -80.11271953,
+      "latitude": 26.781732950000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3955,
+      "longitude": -80.11271463,
+      "latitude": 26.78197398,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3956,
+      "longitude": -80.11338775,
+      "latitude": 26.78198802,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3957,
+      "longitude": -80.10728807,
+      "latitude": 26.778113129999994,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3958,
+      "longitude": -80.1072525,
+      "latitude": 26.77855007,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3959,
+      "longitude": -80.10724347,
+      "latitude": 26.77866968,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3960,
+      "longitude": -80.10716353,
+      "latitude": 26.780032020000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3961,
+      "longitude": -80.10711567,
+      "latitude": 26.781243170000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3962,
+      "longitude": -80.10710793000001,
+      "latitude": 26.781430410000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3963,
+      "longitude": -80.10709463,
+      "latitude": 26.7818011,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3964,
+      "longitude": -80.10708715,
+      "latitude": 26.78199479,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3965,
+      "longitude": -80.1070824,
+      "latitude": 26.78220961,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3966,
+      "longitude": -80.10707112,
+      "latitude": 26.782476200000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3967,
+      "longitude": -80.10704037,
+      "latitude": 26.78299447,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3968,
+      "longitude": -80.10703722,
+      "latitude": 26.78318971,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3969,
+      "longitude": -80.107026,
+      "latitude": 26.78432277,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3970,
+      "longitude": -80.10699893,
+      "latitude": 26.78506859,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3971,
+      "longitude": -80.10698831,
+      "latitude": 26.785462210000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3972,
+      "longitude": -80.10697735,
+      "latitude": 26.785742790000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3973,
+      "longitude": -80.10810027,
+      "latitude": 26.78332351,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3974,
+      "longitude": -80.10760753,
+      "latitude": 26.78330731,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3975,
+      "longitude": -80.10673366,
+      "latitude": 26.7832845,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3976,
+      "longitude": -80.10652444000002,
+      "latitude": 26.783280520000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3977,
+      "longitude": -80.10617931,
+      "latitude": 26.78326347,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3978,
+      "longitude": -80.1056631,
+      "latitude": 26.78325651,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3979,
+      "longitude": -80.10566113,
+      "latitude": 26.783186719999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3980,
+      "longitude": -80.10567527,
+      "latitude": 26.78294376,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3981,
+      "longitude": -80.10569562,
+      "latitude": 26.78271225,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3982,
+      "longitude": -80.10047325,
+      "latitude": 26.77980342,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3983,
+      "longitude": -80.10001349,
+      "latitude": 26.77978566,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3984,
+      "longitude": -80.09964898,
+      "latitude": 26.779780889999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3985,
+      "longitude": -80.09564116,
+      "latitude": 26.78559494,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3986,
+      "longitude": -80.09566368,
+      "latitude": 26.785093740000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3987,
+      "longitude": -80.09570521,
+      "latitude": 26.784492039999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3988,
+      "longitude": -80.09573821,
+      "latitude": 26.783888710000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3989,
+      "longitude": -80.09575498,
+      "latitude": 26.783475519999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3990,
+      "longitude": -80.11298977,
+      "latitude": 26.783900299999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3991,
+      "longitude": -80.11145337,
+      "latitude": 26.782880470000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3992,
+      "longitude": -80.11128132,
+      "latitude": 26.782765089999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3993,
+      "longitude": -80.11068414,
+      "latitude": 26.782369190000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3994,
+      "longitude": -80.10849525,
+      "latitude": 26.780898560000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3995,
+      "longitude": -80.10825332,
+      "latitude": 26.78073632,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3996,
+      "longitude": -80.10774236,
+      "latitude": 26.780400110000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3997,
+      "longitude": -80.10518776,
+      "latitude": 26.778693080000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3998,
+      "longitude": -80.10361894,
+      "latitude": 26.777646610000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 3999,
+      "longitude": -80.10326514,
+      "latitude": 26.777411160000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4000,
+      "longitude": -80.09972961,
+      "latitude": 26.7750555,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4001,
+      "longitude": -80.09945387,
+      "latitude": 26.774871119999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4002,
+      "longitude": -80.09912973,
+      "latitude": 26.774658730000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4003,
+      "longitude": -80.09891251,
+      "latitude": 26.774515149999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4004,
+      "longitude": -80.09842257,
+      "latitude": 26.77418538,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4005,
+      "longitude": -80.10643005,
+      "latitude": 26.800354530000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4006,
+      "longitude": -80.10643929,
+      "latitude": 26.80018438,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4007,
+      "longitude": -80.10644678,
+      "latitude": 26.80000561,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4008,
+      "longitude": -80.10642962,
+      "latitude": 26.80054017,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4009,
+      "longitude": -80.10642644,
+      "latitude": 26.800720330000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4010,
+      "longitude": -80.10633197,
+      "latitude": 26.79798655,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4011,
+      "longitude": -80.10649144,
+      "latitude": 26.798446310000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4012,
+      "longitude": -80.10650278,
+      "latitude": 26.79799447,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4013,
+      "longitude": -80.10647994,
+      "latitude": 26.798745280000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4014,
+      "longitude": -80.10647151,
+      "latitude": 26.799148960000007,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4015,
+      "longitude": -80.10647559,
+      "latitude": 26.7989866,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4016,
+      "longitude": -80.10646649,
+      "latitude": 26.79931601,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4017,
+      "longitude": -80.10646252,
+      "latitude": 26.79945896,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4018,
+      "longitude": -80.10645795,
+      "latitude": 26.79959798,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4019,
+      "longitude": -80.10644939,
+      "latitude": 26.799867380000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4020,
+      "longitude": -80.10619567,
+      "latitude": 26.79798507,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4021,
+      "longitude": -80.10584999,
+      "latitude": 26.797967800000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4022,
+      "longitude": -80.10517216,
+      "latitude": 26.797943629999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4023,
+      "longitude": -80.1044615,
+      "latitude": 26.797925620000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4024,
+      "longitude": -80.10367376,
+      "latitude": 26.79790289,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4025,
+      "longitude": -80.11153311,
+      "latitude": 26.79635705,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4026,
+      "longitude": -80.11035999,
+      "latitude": 26.79633184,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4027,
+      "longitude": -80.10953795,
+      "latitude": 26.796308810000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4028,
+      "longitude": -80.10875445,
+      "latitude": 26.79628704,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4029,
+      "longitude": -80.10768766,
+      "latitude": 26.79624675,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4030,
+      "longitude": -80.10772818,
+      "latitude": 26.79498265,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4031,
+      "longitude": -80.10731227,
+      "latitude": 26.79622878,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4032,
+      "longitude": -80.10657249,
+      "latitude": 26.79590797,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4033,
+      "longitude": -80.10658156,
+      "latitude": 26.795566020000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4034,
+      "longitude": -80.10656428,
+      "latitude": 26.79622413,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4035,
+      "longitude": -80.10654972,
+      "latitude": 26.79661081,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4036,
+      "longitude": -80.10653937,
+      "latitude": 26.796966090000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4037,
+      "longitude": -80.10652774,
+      "latitude": 26.79735208,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4038,
+      "longitude": -80.10651011,
+      "latitude": 26.797717870000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4039,
+      "longitude": -80.09988971,
+      "latitude": 26.797806249999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4040,
+      "longitude": -80.09980358,
+      "latitude": 26.797804630000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4041,
+      "longitude": -80.09919385,
+      "latitude": 26.797788100000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4042,
+      "longitude": -80.09819264,
+      "latitude": 26.79770219,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4043,
+      "longitude": -80.09679030000001,
+      "latitude": 26.79787048,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4044,
+      "longitude": -80.09655226,
+      "latitude": 26.79785928,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4045,
+      "longitude": -80.09631191,
+      "latitude": 26.797846620000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4046,
+      "longitude": -80.0959999,
+      "latitude": 26.797586290000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4047,
+      "longitude": -80.0962957,
+      "latitude": 26.79759768,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4048,
+      "longitude": -80.09591868000001,
+      "latitude": 26.797809080000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4049,
+      "longitude": -80.0953957,
+      "latitude": 26.797559409999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4050,
+      "longitude": -80.09537337,
+      "latitude": 26.797751989999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4051,
+      "longitude": -80.10671447,
+      "latitude": 26.79210649,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4052,
+      "longitude": -80.10773432,
+      "latitude": 26.794542649999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4053,
+      "longitude": -80.1077395,
+      "latitude": 26.794884619999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4054,
+      "longitude": -80.10664688,
+      "latitude": 26.793724559999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4055,
+      "longitude": -80.10666515,
+      "latitude": 26.79328934000001,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4056,
+      "longitude": -80.10663026,
+      "latitude": 26.794106510000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4057,
+      "longitude": -80.10661729000002,
+      "latitude": 26.79449687,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4058,
+      "longitude": -80.10660124,
+      "latitude": 26.794855789999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4059,
+      "longitude": -80.10659261,
+      "latitude": 26.795199730000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4060,
+      "longitude": -80.10161982,
+      "latitude": 26.79373986,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4061,
+      "longitude": -80.10163793,
+      "latitude": 26.793116320000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4062,
+      "longitude": -80.10671908,
+      "latitude": 26.791784740000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4063,
+      "longitude": -80.10670169,
+      "latitude": 26.79238148,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4064,
+      "longitude": -80.10669125,
+      "latitude": 26.79271089,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4065,
+      "longitude": -80.10668127,
+      "latitude": 26.792966950000007,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4066,
+      "longitude": -80.10658732,
+      "latitude": 26.79268983,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4067,
+      "longitude": -80.10638573,
+      "latitude": 26.792678220000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4068,
+      "longitude": -80.10608078,
+      "latitude": 26.79266435,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4069,
+      "longitude": -80.10546318,
+      "latitude": 26.792639560000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4070,
+      "longitude": -80.1050888,
+      "latitude": 26.792624759999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4071,
+      "longitude": -80.10464652,
+      "latitude": 26.79261444,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4072,
+      "longitude": -80.10418678,
+      "latitude": 26.792592,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4073,
+      "longitude": -80.10359022,
+      "latitude": 26.79257043000001,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4074,
+      "longitude": -80.10312425,
+      "latitude": 26.79255149,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4075,
+      "longitude": -80.10258536,
+      "latitude": 26.792536359999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4076,
+      "longitude": -80.10208668,
+      "latitude": 26.7925157,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4077,
+      "longitude": -80.10167495,
+      "latitude": 26.79250854,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4078,
+      "longitude": -80.10130875,
+      "latitude": 26.792497449999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4079,
+      "longitude": -80.10097109,
+      "latitude": 26.792491830000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4080,
+      "longitude": -80.10068086,
+      "latitude": 26.792483859999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4081,
+      "longitude": -80.10035025,
+      "latitude": 26.792472499999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4082,
+      "longitude": -80.09985279,
+      "latitude": 26.792456170000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4083,
+      "longitude": -80.09954739,
+      "latitude": 26.792462050000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4084,
+      "longitude": -80.09827796,
+      "latitude": 26.792619100000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4085,
+      "longitude": -80.09777216,
+      "latitude": 26.792600940000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4086,
+      "longitude": -80.09732746,
+      "latitude": 26.79257234,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4087,
+      "longitude": -80.09666401,
+      "latitude": 26.792543440000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4088,
+      "longitude": -80.09594311,
+      "latitude": 26.79251131,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4089,
+      "longitude": -80.09519711,
+      "latitude": 26.792472990000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4090,
+      "longitude": -80.10682786,
+      "latitude": 26.789239840000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4091,
+      "longitude": -80.1068375,
+      "latitude": 26.789050950000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4092,
+      "longitude": -80.10681483,
+      "latitude": 26.789606760000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4093,
+      "longitude": -80.10679796,
+      "latitude": 26.78996428,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4094,
+      "longitude": -80.10677974,
+      "latitude": 26.79032236,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4095,
+      "longitude": -80.10676229,
+      "latitude": 26.79067298,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4096,
+      "longitude": -80.10675511,
+      "latitude": 26.791016410000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4097,
+      "longitude": -80.10668509,
+      "latitude": 26.79068001,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4098,
+      "longitude": -80.1064213,
+      "latitude": 26.79066596,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4099,
+      "longitude": -80.10620535000001,
+      "latitude": 26.79066271,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4100,
+      "longitude": -80.10568587,
+      "latitude": 26.79064838,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4101,
+      "longitude": -80.10592985,
+      "latitude": 26.790657099999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4102,
+      "longitude": -80.10522028,
+      "latitude": 26.790637070000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4103,
+      "longitude": -80.10472062,
+      "latitude": 26.790621540000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4104,
+      "longitude": -80.10397293,
+      "latitude": 26.790596000000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4105,
+      "longitude": -80.10339956,
+      "latitude": 26.790581510000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4106,
+      "longitude": -80.10286099,
+      "latitude": 26.790569629999993,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4107,
+      "longitude": -80.10224208,
+      "latitude": 26.79055329,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4108,
+      "longitude": -80.09937008,
+      "latitude": 26.790545479999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4109,
+      "longitude": -80.0984278,
+      "latitude": 26.79068872,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4110,
+      "longitude": -80.09648853000002,
+      "latitude": 26.789104619999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4111,
+      "longitude": -80.09648609000001,
+      "latitude": 26.78919055,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4112,
+      "longitude": -80.09647656,
+      "latitude": 26.78943464,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4113,
+      "longitude": -80.09645407,
+      "latitude": 26.789851250000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4114,
+      "longitude": -80.09740113,
+      "latitude": 26.790641950000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4115,
+      "longitude": -80.09642162,
+      "latitude": 26.79059330000001,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4116,
+      "longitude": -80.09582548,
+      "latitude": 26.79056425,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4117,
+      "longitude": -80.09548775,
+      "latitude": 26.7905492,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4118,
+      "longitude": -80.09510987,
+      "latitude": 26.790533090000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4119,
+      "longitude": -80.11255426000001,
+      "latitude": 26.787293259999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4120,
+      "longitude": -80.11230928,
+      "latitude": 26.787290430000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4121,
+      "longitude": -80.11189545,
+      "latitude": 26.78727718,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4122,
+      "longitude": -80.11159712,
+      "latitude": 26.78726729,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4123,
+      "longitude": -80.11123953,
+      "latitude": 26.78725893,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4124,
+      "longitude": -80.11090831,
+      "latitude": 26.787246670000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4125,
+      "longitude": -80.11057648,
+      "latitude": 26.787239960000008,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4126,
+      "longitude": -80.110221,
+      "latitude": 26.787230980000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4127,
+      "longitude": -80.10991706,
+      "latitude": 26.787220710000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4128,
+      "longitude": -80.10970054,
+      "latitude": 26.787211230000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4129,
+      "longitude": -80.10925853,
+      "latitude": 26.78721315,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4130,
+      "longitude": -80.10888935000001,
+      "latitude": 26.787206870000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4131,
+      "longitude": -80.1085948,
+      "latitude": 26.787203210000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4132,
+      "longitude": -80.1079255,
+      "latitude": 26.78718014,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4133,
+      "longitude": -80.10760494,
+      "latitude": 26.78717477,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4134,
+      "longitude": -80.10729188,
+      "latitude": 26.78717844,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4135,
+      "longitude": -80.10692228,
+      "latitude": 26.787026129999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4136,
+      "longitude": -80.10692895,
+      "latitude": 26.78677447,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4137,
+      "longitude": -80.10694997,
+      "latitude": 26.78641322,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4138,
+      "longitude": -80.10685261,
+      "latitude": 26.787012390000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4139,
+      "longitude": -80.10689963,
+      "latitude": 26.787415240000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4140,
+      "longitude": -80.10685644,
+      "latitude": 26.78779216,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4141,
+      "longitude": -80.10684025,
+      "latitude": 26.78812709,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4142,
+      "longitude": -80.10682871,
+      "latitude": 26.788462640000006,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4143,
+      "longitude": -80.10683824,
+      "latitude": 26.788789089999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4144,
+      "longitude": -80.09659515,
+      "latitude": 26.786703110000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4145,
+      "longitude": -80.096614,
+      "latitude": 26.786317740000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4146,
+      "longitude": -80.09655862,
+      "latitude": 26.787500890000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4147,
+      "longitude": -80.10696517,
+      "latitude": 26.78607307,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4148,
+      "longitude": -80.09662416,
+      "latitude": 26.786071019999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4149,
+      "longitude": -80.09620747,
+      "latitude": 26.786056859999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4150,
+      "longitude": -80.09574366,
+      "latitude": 26.78604472,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4151,
+      "longitude": -80.09490363,
+      "latitude": 26.78559249,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4152,
+      "longitude": -80.10674175,
+      "latitude": 26.79138051,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4153,
+      "longitude": -80.10673581,
+      "latitude": 26.791504780000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4154,
+      "longitude": -80.10671453000002,
+      "latitude": 26.792116769999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4155,
+      "longitude": -80.10669973,
+      "latitude": 26.79245862,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4156,
+      "longitude": -80.10641564,
+      "latitude": 26.8009958,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4157,
+      "longitude": -80.10771442,
+      "latitude": 26.795657120000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4158,
+      "longitude": -80.10769037,
+      "latitude": 26.796118819999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4159,
+      "longitude": -80.10820337,
+      "latitude": 26.796266940000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4160,
+      "longitude": -80.10855083,
+      "latitude": 26.796280530000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4161,
+      "longitude": -80.11097466,
+      "latitude": 26.796349849999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4162,
+      "longitude": -80.11218229,
+      "latitude": 26.796368749999992,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4163,
+      "longitude": -80.10543446,
+      "latitude": 26.79064349,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4164,
+      "longitude": -80.10424635,
+      "latitude": 26.79061069,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4165,
+      "longitude": -80.09960946,
+      "latitude": 26.790505570000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4166,
+      "longitude": -80.09455169,
+      "latitude": 26.790506110000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4167,
+      "longitude": -80.09643902,
+      "latitude": 26.79023616,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4168,
+      "longitude": -80.0965227,
+      "latitude": 26.78830699,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4169,
+      "longitude": -80.09536403,
+      "latitude": 26.7860261,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4170,
+      "longitude": -80.09537462,
+      "latitude": 26.785693590000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4171,
+      "longitude": -80.09539101,
+      "latitude": 26.785284070000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4172,
+      "longitude": -80.09422965,
+      "latitude": 26.785569119999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4173,
+      "longitude": -80.10166604,
+      "latitude": 26.792532960000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4174,
+      "longitude": -80.09486284,
+      "latitude": 26.797751019999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4175,
+      "longitude": -80.09535141,
+      "latitude": 26.786379480000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4176,
+      "longitude": -80.09532265,
+      "latitude": 26.786845360000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4177,
+      "longitude": -80.0953113,
+      "latitude": 26.78709409,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4178,
+      "longitude": -80.09527327,
+      "latitude": 26.787904779999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4179,
+      "longitude": -80.09523908,
+      "latitude": 26.788716100000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4180,
+      "longitude": -80.09190648,
+      "latitude": 26.784711149999993,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4181,
+      "longitude": -80.09191762,
+      "latitude": 26.78438141,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4182,
+      "longitude": -80.09189774,
+      "latitude": 26.784936749999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4183,
+      "longitude": -80.09188695,
+      "latitude": 26.785483449999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4184,
+      "longitude": -80.09195313,
+      "latitude": 26.783229009999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4185,
+      "longitude": -80.09193863,
+      "latitude": 26.78358883000001,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4186,
+      "longitude": -80.09187691,
+      "latitude": 26.78591677,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4187,
+      "longitude": -80.09037941,
+      "latitude": 26.79831394,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4188,
+      "longitude": -80.09036899,
+      "latitude": 26.798595579999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4189,
+      "longitude": -80.09033563,
+      "latitude": 26.799290400000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4190,
+      "longitude": -80.09032024,
+      "latitude": 26.79974176,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4191,
+      "longitude": -80.09434587,
+      "latitude": 26.797705790000006,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4192,
+      "longitude": -80.0938133,
+      "latitude": 26.797680099999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4193,
+      "longitude": -80.09258583,
+      "latitude": 26.797622469999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4194,
+      "longitude": -80.09113885,
+      "latitude": 26.79660396000001,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4195,
+      "longitude": -80.09134803,
+      "latitude": 26.79609122,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4196,
+      "longitude": -80.09094691,
+      "latitude": 26.797080380000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4197,
+      "longitude": -80.09200143,
+      "latitude": 26.797589329999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4198,
+      "longitude": -80.09155786,
+      "latitude": 26.79757915,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4199,
+      "longitude": -80.0912749,
+      "latitude": 26.797564020000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4200,
+      "longitude": -80.09099243,
+      "latitude": 26.797543099999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4201,
+      "longitude": -80.09153919,
+      "latitude": 26.795582570000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4202,
+      "longitude": -80.09082108,
+      "latitude": 26.79752806,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4203,
+      "longitude": -80.09182142,
+      "latitude": 26.794683959999993,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4204,
+      "longitude": -80.09173936,
+      "latitude": 26.795092440000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4205,
+      "longitude": -80.09513956,
+      "latitude": 26.79126125,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4206,
+      "longitude": -80.09516795,
+      "latitude": 26.790641650000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4207,
+      "longitude": -80.09511613,
+      "latitude": 26.791734970000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4208,
+      "longitude": -80.09171793,
+      "latitude": 26.791251710000008,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4209,
+      "longitude": -80.09174498,
+      "latitude": 26.79038161,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4210,
+      "longitude": -80.09169525,
+      "latitude": 26.792078040000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4211,
+      "longitude": -80.09168622,
+      "latitude": 26.792386470000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4212,
+      "longitude": -80.09167535,
+      "latitude": 26.792900780000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4213,
+      "longitude": -80.0918954,
+      "latitude": 26.792905899999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4214,
+      "longitude": -80.09188613,
+      "latitude": 26.793281860000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4215,
+      "longitude": -80.09166088,
+      "latitude": 26.79332323,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4216,
+      "longitude": -80.09520413,
+      "latitude": 26.78936279,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4217,
+      "longitude": -80.09403181,
+      "latitude": 26.789441,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4218,
+      "longitude": -80.09387677,
+      "latitude": 26.789432729999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4219,
+      "longitude": -80.09426217,
+      "latitude": 26.790493910000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4220,
+      "longitude": -80.09385125,
+      "latitude": 26.790473679999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4221,
+      "longitude": -80.0937601,
+      "latitude": 26.78942501,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4222,
+      "longitude": -80.09334305,
+      "latitude": 26.789410890000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4223,
+      "longitude": -80.09361613,
+      "latitude": 26.790461939999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4224,
+      "longitude": -80.09292891,
+      "latitude": 26.790430939999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4225,
+      "longitude": -80.09297078,
+      "latitude": 26.78939167,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4226,
+      "longitude": -80.09261594,
+      "latitude": 26.789382899999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4227,
+      "longitude": -80.09177436000002,
+      "latitude": 26.789349130000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4228,
+      "longitude": -80.09178016,
+      "latitude": 26.789013780000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4229,
+      "longitude": -80.09179159,
+      "latitude": 26.78878486,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4230,
+      "longitude": -80.09176558,
+      "latitude": 26.789606370000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4231,
+      "longitude": -80.09176045,
+      "latitude": 26.78979376,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4232,
+      "longitude": -80.09268063,
+      "latitude": 26.790421039999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4233,
+      "longitude": -80.09183815,
+      "latitude": 26.78713243,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4234,
+      "longitude": -80.09186525,
+      "latitude": 26.786306909999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4235,
+      "longitude": -80.09181211,
+      "latitude": 26.787959969999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4236,
+      "longitude": -80.09180477,
+      "latitude": 26.788165550000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4237,
+      "longitude": -80.09179613,
+      "latitude": 26.788369509999995,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4238,
+      "longitude": -80.0935013,
+      "latitude": 26.785541090000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4239,
+      "longitude": -80.09269394,
+      "latitude": 26.785515349999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4240,
+      "longitude": -80.09074228,
+      "latitude": 26.7975646,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4241,
+      "longitude": -80.09330686,
+      "latitude": 26.79765411,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4242,
+      "longitude": -80.09155904,
+      "latitude": 26.797651250000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4243,
+      "longitude": -80.09184806,
+      "latitude": 26.79426765,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4244,
+      "longitude": -80.09475607,
+      "latitude": 26.78933962,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4245,
+      "longitude": -80.0951062,
+      "latitude": 26.789358230000012,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4246,
+      "longitude": -80.09186204,
+      "latitude": 26.793696109999996,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4247,
+      "longitude": -80.09298718,
+      "latitude": 26.797640249999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4248,
+      "longitude": -80.116831769115,
+      "latitude": 26.760713323645103,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4249,
+      "longitude": -80.11918640136719,
+      "latitude": 26.786972045898445,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4250,
+      "longitude": -80.0967254638672,
+      "latitude": 26.7860794067383,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4251,
+      "longitude": -80.092181677855,
+      "latitude": 26.7855106104327,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4252,
+      "longitude": -80.12324404000002,
+      "latitude": 26.75994351,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4253,
+      "longitude": -80.11641303,
+      "latitude": 26.76667784,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4254,
+      "longitude": -80.10760952,
+      "latitude": 26.77137543,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4255,
+      "longitude": -80.093313,
+      "latitude": 26.789413999999997,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4256,
+      "longitude": -80.1152894491256,
+      "latitude": 26.787616475704098,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4257,
+      "longitude": -80.115278086523,
+      "latitude": 26.787934794961505,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4258,
+      "longitude": -80.1152725219727,
+      "latitude": 26.7880916595459,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4259,
+      "longitude": -80.097918,
+      "latitude": 26.790667,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4260,
+      "longitude": -80.0995088652843,
+      "latitude": 26.773532489607902,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4261,
+      "longitude": -80.11924656,
+      "latitude": 26.759827819999998,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4262,
+      "longitude": -80.11834336,
+      "latitude": 26.759802460000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4263,
+      "longitude": -80.11893787,
+      "latitude": 26.759801460000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4264,
+      "longitude": -80.12011432,
+      "latitude": 26.75985309,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4265,
+      "longitude": -80.11810417,
+      "latitude": 26.759802530000005,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4266,
+      "longitude": -80.1169293,
+      "latitude": 26.759727480000002,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4267,
+      "longitude": -80.1145848,
+      "latitude": 26.75982703,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4268,
+      "longitude": -80.1150228,
+      "latitude": 26.759845360000003,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4269,
+      "longitude": -80.11554719,
+      "latitude": 26.75986344,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4270,
+      "longitude": -80.11668139,
+      "latitude": 26.76197531,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4271,
+      "longitude": -80.11432584,
+      "latitude": 26.759817200000004,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4272,
+      "longitude": -80.11599985,
+      "latitude": 26.75988045,
+      "type": "asset"
+    },
+    {
+      "asset_index": 4273,
+      "longitude": -80.11685648,
+      "latitude": 26.760337730000003,
+      "type": "asset"
+    }
+  ]
+}

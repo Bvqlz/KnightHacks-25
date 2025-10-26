@@ -1,6 +1,3 @@
-!pip install geopandas numpy ortools
-!pip install dill
-!pip install --pre matplotlib --upgrade
 import geopandas as gpd
 import dill as pickle
 import numpy as np
@@ -659,7 +656,7 @@ if __name__ == "__main__":
         clear_cache()
 
     if TEST_MODE:
-        print("\n⚡ Running in TEST MODE (500 waypoints)\n")
+        print("\n Running in TEST MODE (500 waypoints)\n")
         route = main(use_subset=True, subset_size=500)
     else:
         print("\n Running FULL OPTIMIZATION (all waypoints)\n")
