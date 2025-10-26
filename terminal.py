@@ -406,12 +406,24 @@ def export_mission_data(all_routes, data, output_dir="output"):
             
             # Calculate segment distance
             if seq < len(expanded) - 1:
-                segment_dist = distance_matrix[expanded[seq]][expanded[seq + 1]]
+                wp_current = expanded[seq]
+                wp_next = expanded[seq + 1]
+                
+                # Check if both waypoints are in the navigable range
+                if wp_current < distance_matrix.shape[0] and wp_next < distance_matrix.shape[0]:
+                    segment_dist = distance_matrix[wp_current][wp_next]
+                else:
+                    # For non-navigable waypoints (like assets), estimate from coordinates
+                    coord_current = points_lat_long[wp_current]
+                    coord_next = points_lat_long[wp_next]
+                    # Simple Euclidean distance (you could use haversine for better accuracy)
+                    dx = (coord_next[0] - coord_current[0]) * 364000  # rough lon to feet
+                    dy = (coord_next[1] - coord_current[1]) * 364000  # rough lat to feet
+                    segment_dist = int(np.sqrt(dx**2 + dy**2))
             else:
                 segment_dist = 0
-            
-            cumulative_dist += segment_dist
-            
+
+            cumulative_dist += segment_dist            
             # Determine waypoint type
             if wp_idx == 0:
                 wp_type = "depot"
@@ -451,6 +463,7 @@ def export_mission_data(all_routes, data, output_dir="output"):
         "total_missions": len(missions),
         "total_distance_ft": sum(m["total_distance_ft"] for m in missions),
         "total_distance_km": sum(m["total_distance_km"] for m in missions),
+        "total_distance_miles": sum(m["total_distance_miles"] for m in missions),  
         "total_waypoints": sum(m["num_waypoints"] for m in missions),
         "total_photo_points_visited": sum(m["num_photo_points"] for m in missions),
         "max_distance_per_mission_ft": max_distance_per_trip,
